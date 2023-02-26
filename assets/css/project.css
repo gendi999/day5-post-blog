@@ -81,18 +81,21 @@
   
   .blog-form form .button-group {
     text-align: right;
-    color: aqua;
   }
   
   .blog-form form button {
     margin-top: 50px;
     padding: 8px 20px;
     font-size: 17px;
-    background: #140f0e;
+    background: #0f0705;
     border-radius: 8px;
     border: none;
     color: #fff;
     cursor: pointer;
+  }
+  .blog-form form button:hover {
+    background: rgb(190, 20, 20);
+    transition-duration: 500ms;
   }
   
   .blog hr {
