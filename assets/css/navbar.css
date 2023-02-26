@@ -72,3 +72,13 @@ body {
     background-color: rgb(41, 19, 236);
       transition-duration: 500ms;
   }
+  .button-cme button{
+    background-color: rgb(7, 14, 14);
+
+  }
+
+  .button-cme button:hover{
+    background-color: rgb(192, 28, 28);
+    transition-duration: 500ms;
+
+  }
