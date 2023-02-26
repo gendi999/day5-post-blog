@@ -90,9 +90,44 @@ body{
    transition-duration: 500ms;
   
   }
-#icon-media a:hover button i{
-  background-color: rgb(8, 6, 6);
+ /* #icon-media i:hover {
+  background-color: rgb(12, 61, 151);
+  transition-duration: 500ms;
+  color: #eeecf7;
+ } */
+ #icon-media #face button:hover {
+  background-color: rgb(2, 2, 10);
+  padding: 100px;
+ } 
+ #icon-media #face button {
+  background-color: #0d2e88;
   transition-duration: 500ms;
   color: #eeecf7;
  }
-    
+ #icon-media #insta button:hover {
+  background-color: rgb(2, 2, 10);
+  padding: 100px;
+ } 
+ #icon-media #insta button {
+  background-color: #880d0d;
+  transition-duration: 500ms;
+  color: #eeecf7;
+ }
+ #icon-media #twit button:hover {
+  background-color: rgb(2, 2, 10);
+  padding: 100px;
+ } 
+ #icon-media #twit button {
+  background-color: #105eb8;
+  transition-duration: 500ms;
+  color: #eeecf7;
+ }
+ #icon-media #linked button:hover {
+  background-color: rgb(2, 2, 10);
+  padding: 100px;
+ } 
+ #icon-media #linked button {
+  background-color: #2b4fb4;
+  transition-duration: 500ms;
+  color: #eeecf7;
+ }
